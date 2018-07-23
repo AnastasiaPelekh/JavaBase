@@ -1,0 +1,7 @@
+package homeWork.week6;
+
+public class TestCalculator {
+    public static void main(String[] args) {
+        new Calculator();
+    }
+}
